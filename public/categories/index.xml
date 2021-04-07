@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://anu-ml-bootcamp.github.io/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ML&#43;DS Bootcamp</title>
+    <link>https://anu-ml-bootcamp.github.io/categories/</link>
+    <description>Recent content in Categories on ML&#43;DS Bootcamp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://anu-ml-bootcamp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://anu-ml-bootcamp.github.io/posts/about/</link>
+      <guid>https://anu-ml-bootcamp.github.io/posts/about/</guid>
+      <description>&lt;h1 id=&#34;invitation-to-participate-in-machine-learning-and-data-science-bootcamp-pilot&#34;&gt;Invitation to participate in Machine Learning and Data Science Bootcamp (Pilot)&lt;/h1&gt;
+&lt;p&gt;Data science and machine learning are revolutionising our approach to research, identifying new insights and opening up new opportunities.
+Joining the revolution can be difficult for even the most experienced scientist or specialist without a background in computing, so we are here to help.&lt;/p&gt;
+&lt;p&gt;In this pilot program two experienced ML/DS researchers from the &lt;a href=&#34;https://cs.anu.edu.au/&#34;&gt;ANU School of Computing&lt;/a&gt; (SOCO) will join you for an assessment meeting.
+There, you can outline your data, research question and/or desired machine learning and data science approach.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We can then:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suggest appropriate data science methods&lt;/li&gt;
+&lt;li&gt;Recommend best practice approaches&lt;/li&gt;
+&lt;li&gt;Provide a workflow to guide implementation&lt;/li&gt;
+&lt;li&gt;Do a training needs analysis&lt;/li&gt;
+&lt;li&gt;Point you to appropriate resources&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After this session we will outline our suggestions and establish a plan for a set of support meetings which you can schedule as fits with your progress.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who is Bootcamp for?&lt;/strong&gt;&lt;br&gt;
+Primarily research staff. We are happy to work with HDR students, but request that a supervisor attends the initial assessment meeting so we can get a comprehensive overview of the research.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Questionnaire&lt;/strong&gt;&lt;br&gt;
+To make this meeting effective, please try to complete &lt;a href=&#34;https://forms.office.com/Pages/ResponsePage.aspx?id=XHJ941yrJEaa5fBTPkhkNyCGn3VITfNIq8dJe2P694NURVlOM0FTTzVJMkxYWlNJSlNJRFRGMlVESy4u&#34;&gt;this questionnaire&lt;/a&gt;.
+Don&amp;rsquo;t worry if you don&amp;rsquo;t have the answers! We will work through the questionnaire with you at your assessment meeting.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Book a meeting&lt;/strong&gt;&lt;br&gt;
+If you have any questions or would like to have an assessment meeting, please grab 60 minutes with us for an &lt;a href=&#34;https://outlook.office365.com/owa/calendar/ANU7@ANU365.onmicrosoft.com/bookings/&#34;&gt;appointment&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
